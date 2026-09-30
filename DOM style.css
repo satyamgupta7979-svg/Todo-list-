@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #6b4baf;
+}
+
+.box {
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+}
+
+input {
+    padding: 10px;
+    width: 220px;
+}
+
+.btn {
+    padding: 10px;
+    cursor: pointer;
+}
+
+ul {
+    text-align: left;
+    padding: 20px;
+}
+
+li {
+    margin: 10px;
+}
+
+.delete {
+    margin-left: 20px;
+    background: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
