@@ -1,28 +1,85 @@
-// To-Do List Web Application:
+# 📝 Todo App
 
-Developed a responsive and user-friendly To-Do List Application using HTML, CSS, and JavaScript. The application allows users to efficiently manage daily tasks by adding, marking, and deleting tasks in real time. It features a clean and intuitive interface, helping users stay organized and improve productivity.
+A simple and beginner-friendly **Todo App** built using **HTML, CSS, and JavaScript DOM**.
 
-// Features:
+This project allows users to add tasks and delete them dynamically using JavaScript DOM manipulation.
 
-Add new tasks dynamically
-Mark tasks as completed
-Delete unwanted tasks
-Responsive design for desktop and mobile devices
-Interactive user interface with JavaScript DOM manipulation
-Instant task updates without page reload
+## 🚀 Features
 
-// Technologies Used:
+* ➕ Add new tasks
+* 🗑️ Delete tasks
+* ⚡ Dynamic DOM manipulation
+* 🎨 Simple and clean UI
+* 📱 Basic responsive layout
+* 🚫 Prevents empty tasks from being added
 
-HTML5 – Structure and layout
-CSS3 – Styling and responsive design
-JavaScript (ES6) – Functionality and interactivity
+## 🛠️ Technologies Used
 
-// Learning Outcomes:
+* **HTML5** – Structure of the application
+* **CSS3** – Styling and layout
+* **JavaScript** – DOM manipulation and functionality
 
-Improved understanding of DOM manipulation
-Practiced event handling in JavaScript
-Enhanced frontend development skills
-Learned how to build interactive web applications
+## 📂 Project Structure
 
-Project Type: Frontend Web Development
-Tech Stack: HTML, CSS, JavaScript
+```text
+Todo-App/
+│
+├── index.html
+├── DOM style.css
+├── DOM app.js
+└── README.md
+```
+
+## 💻 How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-repository-name.git
+```
+
+2. Open the project folder.
+
+3. Open `index.html` in your browser.
+
+That's it! 🎉
+
+## 📸 How It Works
+
+1. Enter a task in the input field.
+2. Click the **Add Task** button.
+3. The task is added to the list.
+4. Click **Delete** to remove a task.
+
+## 📚 What I Learned
+
+Through this project, I practiced:
+
+* `document.querySelector()`
+* `addEventListener()`
+* `createElement()`
+* `appendChild()`
+* `classList`
+* `parentElement`
+* `remove()`
+* DOM event handling
+
+## 🔮 Future Improvements
+
+Some features that can be added in the future:
+
+* ✅ Mark tasks as completed
+* 💾 Save tasks using Local Storage
+* ✏️ Edit existing tasks
+* 🔍 Search and filter tasks
+* 🌙 Dark mode
+* 📅 Add task deadlines
+
+## 👨‍💻 Author
+
+**Satyam Gupta**
+
+---
+
+⭐ If you found this project useful, consider giving the repository a star!
+
